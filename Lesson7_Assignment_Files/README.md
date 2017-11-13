@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jordyn Statham)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
@@ -17,7 +17,7 @@ Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Completed a recipe display application using jQuery)
+2. (Worked with jQuery framework to enhance the application)
+3. (jQuery frameowk is a part of the javascript library )
 
